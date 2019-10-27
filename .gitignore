@@ -29,3 +29,11 @@ out/
 # idea
 
 .idea/
+cpp/.idea/
+java/.idea/
+
+# output files
+
+java/out/
+cpp/cmake-build-debug/
+cpp/CMakeLists.txt
