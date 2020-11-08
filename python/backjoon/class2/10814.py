@@ -1,5 +1,3 @@
-import operator
-
 test_case = int(input())
 
 input_list = []
